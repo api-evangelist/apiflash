@@ -1,0 +1,32 @@
+aid: apiflash
+name: ApiFlash
+description: "Chrome based screenshot API for developers"
+url: https://apiflash.com/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Development"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Development
+  - Public APIs
+apis:
+  - name: ApiFlash
+    description: "Chrome based screenshot API for developers"
+    humanURL: https://apiflash.com/
+    baseURL: https://apiflash.com/
+    tags:
+      - Development
+    properties:
+      - type: Documentation
+        url: https://apiflash.com/
+common:
+  - type: Website
+    url: https://apiflash.com/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
