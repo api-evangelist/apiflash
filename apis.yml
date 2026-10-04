@@ -39,7 +39,6 @@ apis:
   - name: ApiFlash
     description: "Chrome based screenshot API for developers"
     humanURL: https://apiflash.com/
-    baseURL: https://apiflash.com/
     tags:
       - Development
     properties:
